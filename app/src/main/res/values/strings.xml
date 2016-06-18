@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Shopping Lists</string>
+    <string name="appTitleLabel">ShoppingLists</string>
+    <string name="labelDeleteAll">Delete All</string>
+    <string name="labelNewList">New List</string>
+    <string name="labelEdit">Edit</string>
+    <string name="labelDelete">Delete</string>
+    <string name="hintListName">List Name</string>
+    <string name="labelCreate">Create</string>
+    <string name="warningLabelName">Your list needs a name!</string>
+    <string name="labelCancel">Cancel</string>
+    <string name="titleDeleteList">Delete List</string>
+    <string name="warningDeleteList">Are you sure you want to delete this list?</string>
+    <string name="textRemainingItems">" remaining items"</string>
+    <string name="textRemainingItem">" remaining item"</string>
+    <string name="messageDeleteConfirmation" formatted="false">Are you sure you want to delete %s?</string>
+    <string name="labelView">View</string>
+    <string name="labelNewItem">New Item</string>
+    <string name="hintItemName">Item Name</string>
+    <string name="labelChooseCategory">Choose Category</string>
+    <string name="hintNoPrice">0.00</string>
+    <string name="hintDescription">Item Description</string>
+    <string name="hintAddItem">Add Item</string>
+    <string name="messageItemWarning">Your item needs a %s!</string>
+    <string name="txtName">name</string>
+    <string name="txtPrice">price</string>
+    <string name="txtPurchased">Purchased</string>
+    <string name="catFood">Food</string>
+    <string name="catClothing">Clothing</string>
+    <string name="catTech">Tech</string>
+    <string name="catToys">Toys</string>
+    <string name="catBeauty">Beauty</string>
+    <string name="messageDeleteAll">Are you sure you want to delete all?</string>
+    <string name="labelCreateList">Create a New List</string>
+    <string name="labelCreateItem">Create a New Item</string>
+    <string name="labelEditItem">Edit Item</string>
+    <string name="warningDuplicateName">That list name has already been used!</string>
+    <string name="labelFilters">Filters</string>
+    <string name="labelShowCategories">Show Categories</string>
+    <string name="labelDollarSign">$</string>
+</resources>
